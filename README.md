@@ -9,9 +9,9 @@ I work for Alten Italia, I love my job and I am engaged in consultancy.
 In my spare time, I often like to write code and make new projects
 
 ## Other
-👩‍💻 I'm currently working on BlogTest2
-🧠 I'm currently learning Agile methodology
-📫 How to reach me: domenicoemanuele.giannone@gmail.com
+-👩‍💻 I'm currently working on BlogTest2
+-🧠 I'm currently learning Agile methodology
+-📫 How to reach me: domenicoemanuele.giannone@gmail.com
 
 ## Follow me
  - [Linkedin](https://www.linkedin.com/in/domenico-giannone/)
