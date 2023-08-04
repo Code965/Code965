@@ -1,16 +1,25 @@
-### Hi there 👋
+# Domenico Giannone
 
-<!--
-**Code965/Code965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Hi, my name is Domenico Giannone and I'm a full stack developer.
+I am a recent graduate in computer engineering and I mainly deal with creating sites.
+I work for Alten Italia, I love my job and I am engaged in consultancy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my spare time, I often like to write code and make new projects
+
+## Other
+👩‍💻 I'm currently working on BlogTest2
+🧠 I'm currently learning Agile methodology
+📫 How to reach me: domenicoemanuele.giannone@gmail.com
+
+## Follow me
+ - [Linkedin](https://www.linkedin.com/in/domenico-giannone/)
+ - [Facebook ](https://www.facebook.com/profile.php?id=100007287557744)
+ - [Instagram](https://www.instagram.com/d.giannone9/)
+
+## 🛠 Skills
+- JavaScript
+- Python  
+- C
+- Java
