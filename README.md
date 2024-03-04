@@ -14,7 +14,7 @@ In my spare time, I often like to write code and make new projects
 - How to reach me: domenicoemanuele.giannone@gmail.com 📫
 
 ## Follow me
-`![image](https://github.com/Code965/Code965/assets/87176230/ca205069-f730-4ed7-bd76-c6a244f4e91b)`
+![image](https://www.linkedin.com/in/domenico-giannone/)
 ![image](https://github.com/Code965/Code965/assets/87176230/77ff4e8e-3f7a-408e-931f-e75bfd552773)
 
 
