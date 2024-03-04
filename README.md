@@ -5,7 +5,7 @@ I work for Alten Italia, I love my job and I am engaged in consultancy.
 
 In my spare time, I often like to write code and make new projects
 
-## Other
+# Other
 - I'm currently working on Pokedex 👩‍💻
 - I'm currently learning Agile methodology 🧠
 - Email: `domenicoemanuele.giannone@gmail.com`
