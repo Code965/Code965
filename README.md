@@ -14,8 +14,7 @@ In my spare time, I often like to write code and make new projects
 - How to reach me: domenicoemanuele.giannone@gmail.com 📫
 
 ## Follow me
-![image](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-![image](https://github.com/Code965/Code965/assets/87176230/77ff4e8e-3f7a-408e-931f-e75bfd552773)
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 
 
