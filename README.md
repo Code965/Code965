@@ -32,7 +32,6 @@ In my spare time, I often like to write code and make new projects
 ![image](https://github.com/Code965/Code965/assets/87176230/2b72290c-c1a1-4e0c-b6ab-681daaa49c00)
 ![image](https://github.com/Code965/Code965/assets/87176230/1e883b72-7cc7-4671-a2a2-97c500f89174)
 ![image](https://github.com/Code965/Code965/assets/87176230/4f790c2e-e3af-48a0-9a0e-b675f591b8d0)
-
 ![image](https://github.com/Code965/Code965/assets/87176230/ae9ca0c9-5bd1-4f08-82b3-cf828c20b898)
 ![image](https://github.com/Code965/Code965/assets/87176230/574eae2d-928c-400d-9db6-7d6396c93bb4)
 ![image](https://github.com/Code965/Code965/assets/87176230/29e5247f-f6cc-4869-a8ec-f75445c5f510)
