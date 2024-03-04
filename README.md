@@ -16,7 +16,7 @@ In my spare time, I often like to write code and make new projects
 ## Follow me
 ![image](https://github.com/Code965/Code965/assets/87176230/e6f08807-0601-49ef-928a-125c85aeed35)
 ![image](https://github.com/Code965/Code965/assets/87176230/e1ea594d-77c1-4a0c-9a09-523ec8bb2f83)
-![image](https://github.com/Code965/Code965/assets/87176230/e9ce0104-c77a-4bb1-8950-4addaa71ebbd)
+![image](https://github.com/Code965/Code965/assets/87176230/3c06740a-e25e-462e-aa5f-6ad57b8a6b80)
 ![image](https://github.com/Code965/Code965/assets/87176230/08f3b7da-6014-433b-a3df-fedd03b2edf9)
 
 
