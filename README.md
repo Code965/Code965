@@ -1,7 +1,4 @@
 # Domenico Giannone
-
-## About me
-
 Hi, my name is Domenico Giannone and I'm a full stack developer.
 I am a recent graduate in computer engineering and I mainly deal with creating sites.
 I work for Alten Italia, I love my job and I am engaged in consultancy.
