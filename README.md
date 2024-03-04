@@ -15,13 +15,9 @@ In my spare time, I often like to write code and make new projects
 
 ## Follow me
 [<img src="https://github.com/Code965/Code965/assets/87176230/e6f08807-0601-49ef-928a-125c85aeed35">](https://link-to-your-URL/)
-[<img src="https://github.com/Code965/Code965/assets/87176230/e6f08807-0601-49ef-928a-125c85aeed35">](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[<img src="https://github.com/Code965/Code965/assets/87176230/ea961c15-46bd-4900-a75a-7db5eb192310">](https://www.facebook.com/profile.php?id=100007287557744)
 
 
-![image](https://github.com/Code965/Code965/assets/87176230/e6f08807-0601-49ef-928a-125c85aeed35)
-![image](https://github.com/Code965/Code965/assets/87176230/e1ea594d-77c1-4a0c-9a09-523ec8bb2f83)
-![image](https://github.com/Code965/Code965/assets/87176230/3c06740a-e25e-462e-aa5f-6ad57b8a6b80)
-![image](https://github.com/Code965/Code965/assets/87176230/08f3b7da-6014-433b-a3df-fedd03b2edf9)
 
 
 ## 🛠 Languages
