@@ -17,9 +17,8 @@ In my spare time, I often like to write code and make new projects
  - [Linkedin](https://www.linkedin.com/in/domenico-giannone/)
  - [Facebook ](https://www.facebook.com/profile.php?id=100007287557744)
  - [Instagram](https://www.instagram.com/d.giannone9/)
+ - ![image](https://github.com/Code965/Code965/assets/87176230/86652ffa-d5af-4bad-b0dd-ccbfa9f56a15)
 
-## 🛠 Skills
-- JavaScript
-- Python  
-- C
-- Java
+
+## 🛠 Languages
+
