@@ -11,6 +11,8 @@ In my spare time, I often like to write code and make new projects
 ## Other
 - I'm currently working on BlogTest2 👩‍💻
 - I'm currently learning Agile methodology 🧠
+
+- 
  ![image](https://github.com/Code965/Code965/assets/87176230/1c212b0b-6de6-4ca7-ad0b-2ebb75e5009c)
  domenicoemanuele.giannone@gmail.com
 
