@@ -9,7 +9,7 @@ In my spare time, I often like to write code and make new projects
 - I'm currently working on Pokedex 👩‍💻
 - I'm currently learning Agile methodology 🧠
 
-[<img src="https://github.com/Code965/Code965/assets/87176230/1c212b0b-6de6-4ca7-ad0b-2ebb75e5009c">](domenicoemanuele.giannone@gmail.com)
+[<img src="domenicoemanuele.giannone@gmail.com">]()
 
 ## Follow me
 [<img src="https://github.com/Code965/Code965/assets/87176230/e6f08807-0601-49ef-928a-125c85aeed35">](https://link-to-your-URL/)
