@@ -9,8 +9,6 @@ In my spare time, I often like to write code and make new projects
 - I'm currently working on Pokedex 👩‍💻
 - I'm currently learning Agile methodology 🧠
 
-[<img src="https://github.com/Code965/Code965/assets/87176230/e6f08807-0601-49ef-928a-125c85aeed35">](https://web.telegram.org/a/)
-
 ## Follow me
 [<img src="https://github.com/Code965/Code965/assets/87176230/e6f08807-0601-49ef-928a-125c85aeed35">](https://link-to-your-URL/)
 [<img src="https://github.com/Code965/Code965/assets/87176230/ea961c15-46bd-4900-a75a-7db5eb192310">](https://www.facebook.com/profile.php?id=100007287557744)
