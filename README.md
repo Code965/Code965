@@ -8,7 +8,7 @@ In my spare time, I often like to write code and make new projects
 ## Other
 - I'm currently working on Pokedex 👩‍💻
 - I'm currently learning Agile methodology 🧠
-
+- Email: `domenicoemanuele.giannone@gmail.com`
 ## Follow me
 [<img src="https://github.com/Code965/Code965/assets/87176230/ea961c15-46bd-4900-a75a-7db5eb192310">](https://www.facebook.com/profile.php?id=100007287557744)
 [<img src="https://github.com/Code965/Code965/assets/87176230/5f0d92e4-c62f-49c9-8328-a5f5e6687158">](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
