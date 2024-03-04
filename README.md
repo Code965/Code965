@@ -18,6 +18,7 @@ In my spare time, I often like to write code and make new projects
 ![image](https://www.facebook.com/profile.php?id=100007287557744)
   ![image](https://www.instagram.com/d.giannone9/)
   ![image](https://www.linkedin.com/in/domenico-giannone/)
+![image](https://github.com/Code965/Code965/assets/87176230/ca205069-f730-4ed7-bd76-c6a244f4e91b)
 
 
 ## 🛠 Languages
